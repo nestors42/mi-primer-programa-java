@@ -50,7 +50,7 @@ public class desafio {
                     double depositarDinero = teclado.nextDouble();
                     saldo = saldo + depositarDinero;
                     System.out.println("Usted depositó: $" + depositarDinero);
-                    System.out.println("El saldo actualizado es de " + saldo + "$");git
+                    System.out.println("El saldo actualizado es de " + saldo + "$");
                     break;
                 case 9:
                     System.out.println("Saliendo del programa, Gracias por utilizar nuestros servicios");
